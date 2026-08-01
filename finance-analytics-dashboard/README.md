@@ -9,8 +9,8 @@ The source datasets used in this project (Accounts Payable, Accounts Receivable,
 Dashboard Preview
 
 ![FinanceAnalytics Dasboard](images/financeanalytics.png)
-[FinanceAnalytics Dasboard](images/financefilter1.png)
-[FinanceAnalytics Dasboard](images/financefilter2.png)
+![FinanceAnalytics Dasboard](images/financefilter1.png)
+![FinanceAnalytics Dasboard](images/financefilter2.png)
 
 Project Objectives
 Consolidate finance data from multiple operational sources into a single warehouse.
@@ -98,6 +98,7 @@ Financial KPI design
 Dashboard development and data visualisation
 Repository Structure
 finance-analytics-dashboard/
+
 ├── README.md
 ├── images/
 │   ├── executive-finance-dashboard.png
@@ -114,6 +115,7 @@ finance-analytics-dashboard/
 │   └── 06_validation_queries.sql
 └── data/
     └── README.md
+    
 How to Use This Project
 Review and run the SQL scripts in numerical order in SQL Server.
 Load the source data into the staging tables.
