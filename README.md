@@ -97,24 +97,25 @@ DAX measures
 Financial KPI design
 Dashboard development and data visualisation
 
-Repository Structure
+## Repository Structure
+
+```text
 finance-analytics-dashboard/
 ├── README.md
 ├── images/
-│   ├── executive-finance-dashboard.png
-│   ├── dashboard-filter-example-1.png
-│   └── dashboard-filter-example-2.png
+│   ├── financeanalytics.png
+│   ├── financefilter1.png
+│   └── financefilter2.png
 ├── powerbi/
 │   └── FinanceAnalytics.pbix
-├── sql/
-│   ├── 01_create_staging_tables.sql
-│   ├── 02_data_quality_checks.sql
-│   ├── 03_create_silver_tables.sql
-│   ├── 04_create_dimensions.sql
-│   ├── 05_create_fact_tables.sql
-│   └── 06_validation_queries.sql
-└── data/
-    └── README.md
+└── sql/
+    ├── 01_create_staging_tables.sql
+    ├── 02_data_quality_checks.sql
+    ├── 03_create_silver_tables.sql
+    ├── 04_create_dimensions.sql
+    ├── 05_create_fact_tables.sql
+    └── 06_validation_queries.sql
+```
     
 How to Use This Project
 Review and run the SQL scripts in numerical order in SQL Server.
