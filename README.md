@@ -4,7 +4,7 @@ An end-to-end finance analytics portfolio project built with SQL Server and Powe
 
 Data Source
 
-The source datasets used in this project (Accounts Payable, Accounts Receivable, Budget & Forecast, Expense Claims, General Ledger) were obtained from: [https://excelx.com/practice-data/finance-accounting/]
+The source datasets used in this project (Accounts Payable, Accounts Receivable, Budget & Forecast, Expense Claims, General Ledger) were obtained from: https://excelx.com/practice-data/finance-accounting/
 
 Dashboard Preview
 
@@ -96,6 +96,7 @@ Power BI data modelling
 DAX measures
 Financial KPI design
 Dashboard development and data visualisation
+
 Repository Structure
 finance-analytics-dashboard/
 ├── README.md
@@ -114,6 +115,7 @@ finance-analytics-dashboard/
 │   └── 06_validation_queries.sql
 └── data/
     └── README.md
+    
 How to Use This Project
 Review and run the SQL scripts in numerical order in SQL Server.
 Load the source data into the staging tables.
