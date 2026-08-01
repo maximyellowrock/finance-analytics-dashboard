@@ -9,8 +9,8 @@ The source datasets used in this project (Accounts Payable, Accounts Receivable,
 Dashboard Preview
 
 ![FinanceAnalytics Dasboard](images/financeanalytics.png)
-[FinanceAnalytics Dasboard](images/financefilter1.png)
-[FinanceAnalytics Dasboard](images/financefilter2.png)
+![FinanceAnalytics Dasboard](images/financefilter1.png)
+![FinanceAnalytics Dasboard](images/financefilter2.png)
 
 Project Objectives
 Consolidate finance data from multiple operational sources into a single warehouse.
