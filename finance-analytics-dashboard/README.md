@@ -97,8 +97,8 @@ DAX measures
 Financial KPI design
 Dashboard development and data visualisation
 Repository Structure
-finance-analytics-dashboard/
-
+finance-analytics-dashboard
+/
 ├── README.md
 ├── images/
 │   ├── executive-finance-dashboard.png
